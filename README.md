@@ -1,60 +1,52 @@
-<!--
-**mohankumarvs27/mohankumarvs27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Mohankumar V S 👋  
 
-Here are some ideas to get you started:
+🚀 **MERN Stack Developer** | 🏡 Chennai, India  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<h1 align="center">Hi 👋, I'm Mohankumar</h1>
-<h3 align="center">Full Stack Developer</h3>
-<img align="right" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" />
+### 👨‍💻 About Me
+- MERN Stack Developer with **2 years** of experience building full-stack applications.
+- Passionate about **scalable solutions**, **API integrations**, and **performance optimization**.
+- Experienced in **Next.js SSR**, **React dashboards**, and **backend API development**.
+- Cloud enthusiast – skilled in **AWS (EC2, S3), Vercel deployments**.
 
+---
 
-<p align="left"> <a href="https://twitter.com/mohankumarvs27" target="blank"><img src="https://img.shields.io/twitter/follow/mohankumarvs27?logo=twitter&style=for-the-badge" alt="mohankumarvs27" /></a> </p>
+### 🛠 Tech Stack  
+#### **Frontend**
+- **React.js, Next.js, JavaScript, TypeScript**
+- **HTML5, CSS3, TailwindCSS**  
 
+#### **Backend**
+- **Node.js, Express.js, MongoDB, MySQL**  
 
-- 👨‍💻 I’m currently learning **React Native**
+#### **DevOps & Tools**
+- **AWS (EC2, S3), Vercel**
+- **Git, Linux, Agile Development**
+- **React Native (Mobile Development)**  
 
-- 💬 Ask me about **React, Node, Python**
+---
 
-- 📫 How to reach me **mohankumarvs.27@gmail.com**
+### 🔥 Work Experience  
 
-- 📄 Resume [Check My Experience](https://drive.google.com/file/d/1MUI5XaDVS2Ktzj3qVIm-6we7wSg9KWPQ/view?usp=sharing)
+#### 🏢 **Product Developer | 7 Eagles (Nov 2023 - Present)**  
+- Architected a **clinic management system** improving performance by **40%** with **Next.js SSR**.  
+- Developed a **React-based dynamic dashboard** with **role-based access** for medical staff.  
+- Reduced initial load times by **70%** using **code-splitting & lazy loading**.  
+- Integrated APIs: **Gallabox (WhatsApp), Amazon SNS (SMS), AWS S3 (Storage)**.  
+- Deployed frontend on **Ubuntu Server**, dashboard on **Vercel**, and backend on **AWS EC2**.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ridoystarlord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ridoystarlord" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mohankumarvs27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ridoystarlord" height="30" width="40" /></a>
-<!-- <a href="https://fb.com/ridoystarlord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ridoystarlord" height="30" width="40" /></a>
-<a href="https://instagram.com/ridoystarlord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ridoystarlord" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ridoystarlord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ridoystarlord" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ridoystarlord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ridoystarlord" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ridoystarlord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ridoystarlord" height="30" width="40" /></a> -->
-</p>
+#### 🌟 **Internships**  
+- **7 Eagles (React Developer Intern)** - Built secure, responsive React apps with **JWT authentication**.  
+- **Pepul (Web Developer Intern)** - Developed RESTful APIs with **Node.js** & **Sequelize** for database security.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<!--   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="color:red;"/> 
-  </a> -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </p>
-  
+---
+
+### 📫 Let's Connect!  
+🔗 [LinkedIn](https://www.linkedin.com/in/mohankumar-v-s/)  
+🐙 [GitHub](https://github.com/mohankumar-v-s)  
+📧 **Email**: mohankumarvs.27@gmail.com  
+
+---
+
+⭐ **Fun Fact**: I love optimizing performance and building scalable solutions that make a real-world impact!  
