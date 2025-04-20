@@ -5,7 +5,7 @@
 ---
 
 ### 👨‍💻 About Me
-- MERN Stack Developer with **2 years** of experience building full-stack applications.
+- Full Stack Developer with **2 years** of experience building full-stack applications.
 - Passionate about **scalable solutions**, **API integrations**, and **performance optimization**.
 - Experienced in **Next.js SSR**, **React dashboards**, and **backend API development**.
 - Cloud enthusiast – skilled in **AWS (EC2, S3), Vercel deployments**.
