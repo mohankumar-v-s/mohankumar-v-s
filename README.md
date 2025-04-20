@@ -1,6 +1,6 @@
 ### Hi there, I'm Mohankumar V S 👋  
 
-🚀 **MERN Stack Developer** | 🏡 Chennai, India  
+🚀 **Full Stack Developer** | 🏡 Chennai, India  
 
 ---
 
